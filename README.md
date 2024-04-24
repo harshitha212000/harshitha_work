@@ -1,2 +1,2 @@
 # harshitha_work
-This is my project and course repository
+This is my thesis and course repository
